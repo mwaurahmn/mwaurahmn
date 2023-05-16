@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m a **data scientist** with a passion for solving complex problems through data analysis.
+
+- 🌱 I have a strong foundation in **statistics**, **programming**, and **machine learning**.
+
+- 💬 Ask me about the use of **Python** in data manipulation, data visualization, and implementing machine learning models using libraries like **_pandas_**, **_NumPy_**, **_scikit-learn_**, and **_TensorFlow_**.
+
+- 📫 How to reach me: **marthamwaurah@gmail.com**
+
+- ⚡ Fun fact: I **like to learn**. I learnt how to crochet through online tutorials and made my baby's first sweater.
 <!--
 **mwaurahmn/mwaurahmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
