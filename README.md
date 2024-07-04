@@ -8,7 +8,6 @@
 
 - 📫 How to reach me: **marthamwaurah@gmail.com**
 
-- ⚡ Fun fact: I **like to learn**. I learnt how to crochet through online tutorials and made my baby's first sweater.
 <!--
 **mwaurahmn/mwaurahmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
